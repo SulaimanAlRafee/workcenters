@@ -45,7 +45,6 @@
 <h4 style="color:white;">University President</h4>
 </div>
 <a aria-controls="departments1" aria-expanded="false" class="btn btn-primary" data-bs-toggle="collapse" href="#pr" role="button" style="background-color:#DBD9DA;color: #002856; ">View Departments</a></div>
-
 <div class="h6 card-text"><img height="24px" src="/sites/default/files/2024-01/i-person.png" /> Prof. Meshari AlHarbi</div>
 
 <div class="card-text"><img class="icon" src="/sites/default/files/2024-01/i-phone.png" /> 2498-8550</div>
