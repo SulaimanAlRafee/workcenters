@@ -1,0 +1,1147 @@
+<style type="text/css">.main-block {
+        background-color: #FFFFFF;
+        border: 2px solid #ddd;
+        margin-bottom: 10px;
+        padding: 10px;
+    }
+
+    .department-card {
+
+        display: flex;
+        flex-direction: column;
+        height: 100%;
+        background-color: #DBD9DA;
+
+    }
+
+    .alert-color {
+
+        background-color: #DBD9DA;
+    }
+
+    .alert-color1 {
+
+        background-color: #002856;
+    }
+
+    .card-text {
+        padding-left: 5px;
+    }
+
+    .icon {
+        height: 16px;
+        margin-right: 10px;
+    }
+
+    .department-img {
+        height: 100px;
+    }
+</style>
+<!-- President -->
+<div class="container">
+<div class="main-block rounded">
+<div class="alert alert-color1 d-flex justify-content-between align-items-center" role="alert">
+<div>
+<h4 style="color:white;">University President</h4>
+</div>
+<a aria-controls="departments1" aria-expanded="false" class="btn btn-primary" data-bs-toggle="collapse" href="#pr" role="button" style="background-color:#DBD9DA;color: #002856; ">View Departments</a></div>
+
+<div class="h6 card-text"><img height="24px" src="/sites/default/files/2024-01/i-person.png" /> Prof. Meshari AlHarbi</div>
+
+<div class="card-text"><img class="icon" src="/sites/default/files/2024-01/i-phone.png" /> 2498-8550</div>
+
+<div class="card-text" style="margin-bottom: 10px;"><img class="icon" src="/sites/default/files/2024-01/i-email.png" /> prof.fayez@ku.edu.kw</div>
+
+<div class="collapse" id="pr">
+<div class="row" style="padding: 10px;"><!-- Department -->
+<div class="col-md-4">
+<div class="card department-card rounded-2"><img alt="Department Image" class="department-img" src="/sites/default/files/2024-01/presoffice.png" />
+<div class="alert" role="alert">
+<div class="h5 card-text">President Office</div>
+
+<div class="h6 card-text"><img class="icon" src="/sites/default/files/2024-01/i-person.png" />Mohammed Sulaiman</div>
+
+<div class="card-text"><img class="icon" src="/sites/default/files/2024-01/i-phone.png" />123-456-7890</div>
+
+<div class="card-text"><img class="icon" src="/sites/default/files/2024-01/i-email.png" />Alice Smith</div>
+
+<div class="card-text"><img class="icon" src="/sites/default/files/2024-01/i-web.png" />Alice Smith</div>
+
+<div class="card-text"><img class="icon" src="/sites/default/files/2024-01/i-location.png" />Administrative Building, 6th floor</div>
+</div>
+</div>
+</div>
+<!-- Department -->
+
+<div class="col-md-4">
+<div class="card department-card rounded-2"><img alt="Department Image" class="department-img" src="/sites/default/files/2024-01/technicaloffice.png" />
+<div class="alert" role="alert">
+<div class="h5 card-text">Technical Office</div>
+
+<div class="h6 card-text"><img class="icon" src="/sites/default/files/2024-01/i-person.png" />Afaf AlBader</div>
+
+<div class="card-text"><img class="icon" src="/sites/default/files/2024-01/i-phone.png" />123-456-7890</div>
+
+<div class="card-text"><img class="icon" src="/sites/default/files/2024-01/i-email.png" />Alice Smith</div>
+
+<div class="card-text"><img class="icon" src="/sites/default/files/2024-01/i-web.png" />Alice Smith</div>
+
+<div class="card-text"><img class="icon" src="/sites/default/files/2024-01/i-location.png" />Administrative Building, 6th floor</div>
+</div>
+</div>
+</div>
+<!-- Department -->
+
+<div class="col-md-4">
+<div class="card department-card rounded-2"><img alt="Department Image" class="department-img" src="/sites/default/files/2024-01/audit.png" />
+<div class="alert" role="alert">
+<div class="h5 card-text">Audit Office</div>
+
+<div class="h6 card-text"><img class="icon" src="/sites/default/files/2024-01/i-person.png" />XXXXX</div>
+
+<div class="card-text"><img class="icon" src="/sites/default/files/2024-01/i-phone.png" />123-456-7890</div>
+
+<div class="card-text"><img class="icon" src="/sites/default/files/2024-01/i-email.png" />Alice Smith</div>
+
+<div class="card-text"><img class="icon" src="/sites/default/files/2024-01/i-web.png" />Alice Smith</div>
+
+<div class="card-text"><img class="icon" src="/sites/default/files/2024-01/i-location.png" />Administrative Building, 6th floor</div>
+</div>
+</div>
+</div>
+<!-- Department -->
+
+<div class="col-md-4" style="margin-top: 15px;">
+<div class="card department-card rounded-2"><img alt="Department Image" class="department-img" src="/sites/default/files/2024-01/constprog.png" />
+<div class="alert" role="alert">
+<div class="h5 card-text">Construction Program</div>
+
+<div class="h6 card-text"><img class="icon" src="/sites/default/files/2024-01/i-person.png" />Dr. Abdullah AlHendal</div>
+
+<div class="card-text"><img class="icon" src="/sites/default/files/2024-01/i-phone.png" />123-456-7890</div>
+
+<div class="card-text"><img class="icon" src="/sites/default/files/2024-01/i-email.png" />Alice Smith</div>
+
+<div class="card-text"><img class="icon" src="/sites/default/files/2024-01/i-web.png" />Alice Smith</div>
+
+<div class="card-text"><img class="icon" src="/sites/default/files/2024-01/i-location.png" />Administrative Building, 6th floor</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<!-- SG -->
+
+<div class="container">
+<div class="main-block rounded">
+<div class="alert alert-color1 d-flex justify-content-between align-items-center" role="alert">
+<div>
+<h4 style="color:white;">Secretary General</h4>
+</div>
+<a aria-controls="departments1" aria-expanded="false" class="btn btn-primary" data-bs-toggle="collapse" href="#sg" role="button" style="background-color:#DBD9DA;color: #002856; ">View Divisions</a></div>
+
+<div class="h6 card-text"><img height="24px" src="/sites/default/files/2024-01/i-person.png" /> Prof. Fayez AlDhufairi</div>
+
+<div class="card-text"><img class="icon" src="/sites/default/files/2024-01/i-phone.png" /> 2498-8550</div>
+
+<div class="card-text" style="margin-bottom: 10px;"><img class="icon" src="/sites/default/files/2024-01/i-email.png" /> prof.fayez@ku.edu.kw</div>
+<!-- Division -->
+
+<div class="main-block rounded collapse" id="sg">
+<div class="alert alert-color d-flex justify-content-between align-items-center" role="alert">
+<div>
+<h4>Assistant Secretary General for Administrative Affairs</h4>
+</div>
+<a aria-controls="departments1" aria-expanded="false" class="btn btn-primary" data-bs-toggle="collapse" href="#sg1" role="button" style="background-color:#002856;color:white; ">View Departments</a></div>
+
+<div class="h6 card-text"><img height="24px" src="/sites/default/files/2024-01/i-person.png" /> Ali AlOstath</div>
+
+<div class="card-text"><img class="icon" src="/sites/default/files/2024-01/i-phone.png" /> 2498-8550</div>
+
+<div class="card-text"><img class="icon" src="/sites/default/files/2024-01/i-email.png" /> zainab.albader@ku.edu.kw</div>
+
+<div class="card-text"><img class="icon" src="/sites/default/files/2024-01/i-org.png" />Administration of Human Resources, General Services, Administrative and HR Development</div>
+
+<div class="collapse" id="sg1">
+<div class="row" style="padding: 10px;"><!-- Department -->
+<div class="col-md-4">
+<div class="card department-card rounded-2"><img alt="Department Image" class="department-img" src="/sites/default/files/2024-01/employees.png" />
+<div class="alert" role="alert">
+<div class="h5 card-text">Administartion of Human Resources</div>
+
+<div class="h6 card-text"><img class="icon" src="/sites/default/files/2024-01/i-person.png" />Maha AlQaddumi</div>
+
+<div class="card-text"><img class="icon" src="/sites/default/files/2024-01/i-phone.png" /> 123-456-7890</div>
+
+<div class="card-text"><img class="icon" src="/sites/default/files/2024-01/i-email.png" />Alice Smith</div>
+
+<div class="card-text"><img class="icon" src="/sites/default/files/2024-01/i-web.png" />Alice Smith</div>
+
+<div class="card-text"><img class="icon" src="/sites/default/files/2024-01/i-location.png" />Administrative Building, 6th floor</div>
+</div>
+</div>
+</div>
+<!-- Department -->
+
+<div class="col-md-4">
+<div class="card department-card rounded-2"><img alt="Department Image" class="department-img" src="/sites/default/files/2024-01/services.png" />
+<div class="alert" role="alert">
+<div class="h5 card-text">Administration of General Services</div>
+
+<div class="h6 card-text"><img class="icon" src="/sites/default/files/2024-01/i-person.png" />Sundus Ashkanani</div>
+
+<div class="card-text"><img class="icon" src="/sites/default/files/2024-01/i-phone.png" />123-456-7890</div>
+
+<div class="card-text"><img class="icon" src="/sites/default/files/2024-01/i-email.png" />Alice Smith</div>
+
+<div class="card-text"><img class="icon" src="/sites/default/files/2024-01/i-web.png" />Alice Smith</div>
+
+<div class="card-text"><img class="icon" src="/sites/default/files/2024-01/i-location.png" />Administrative Building, 6th floor</div>
+</div>
+</div>
+</div>
+<!-- Department -->
+
+<div class="col-md-4">
+<div class="card department-card rounded-2"><img alt="Department Image" class="department-img" src="/sites/default/files/2024-01/training.png" />
+<div class="alert" role="alert">
+<div class="h5 card-text">Administration of Administrative and HR Development</div>
+
+<div class="h6 card-text"><img class="icon" src="/sites/default/files/2024-01/i-person.png" />Eitemad AlKandari</div>
+
+<div class="card-text"><img class="icon" src="/sites/default/files/2024-01/i-phone.png" />123-456-7890</div>
+
+<div class="card-text"><img class="icon" src="/sites/default/files/2024-01/i-email.png" />Alice Smith</div>
+
+<div class="card-text"><img class="icon" src="/sites/default/files/2024-01/i-web.png" />Alice Smith</div>
+
+<div class="card-text"><img class="icon" src="/sites/default/files/2024-01/i-location.png" />Administrative Building, 6th floor</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+
+<div class="main-block rounded collapse" id="sg">
+<div class="alert alert-color d-flex justify-content-between align-items-center" role="alert"><!-- Alert Title and Message -->
+<div>
+<h4>Assistant Secretary General for Financial Affairs</h4>
+</div>
+<!-- Button on the right --><a aria-controls="departments1" aria-expanded="false" class="btn btn-primary" data-bs-toggle="collapse" href="#sg2" role="button" style="background-color:#002856;color:white; ">View Departments</a></div>
+
+<div class="h6 card-text"><img height="24px" src="/sites/default/files/2024-01/i-person.png" /> Osama AlShhab</div>
+
+<div class="card-text"><img class="icon" src="/sites/default/files/2024-01/i-phone.png" /> 2498-8550</div>
+
+<div class="card-text"><img class="icon" src="/sites/default/files/2024-01/i-email.png" /> zainab.albader@ku.edu.kw</div>
+
+<div class="card-text"><img class="icon" src="/sites/default/files/2024-01/i-org.png" />Administartion of Human Resources, General Services, Administrative and HR Development</div>
+
+<div class="collapse" id="sg2">
+<div class="row" style="padding: 10px;">
+<div class="col-md-4">
+<div class="card department-card rounded-2"><img alt="Department Image" class="department-img" src="/sites/default/files/2024-01/financial.png" />
+<div class="alert" role="alert">
+<div class="h5 card-text">Administration of Financial Affairs</div>
+
+<div class="h6 card-text"><img class="icon" src="/sites/default/files/2024-01/i-person.png" />Maha AlQaddumi</div>
+
+<div class="card-text"><img class="icon" src="/sites/default/files/2024-01/i-phone.png" /> 123-456-7890</div>
+
+<div class="card-text"><img class="icon" src="/sites/default/files/2024-01/i-email.png" />Alice Smith</div>
+
+<div class="card-text"><img class="icon" src="/sites/default/files/2024-01/i-web.png" />Alice Smith</div>
+
+<div class="card-text"><img class="icon" src="/sites/default/files/2024-01/i-location.png" />Administrative Building, 6th floor</div>
+</div>
+</div>
+</div>
+
+<div class="col-md-4">
+<div class="card department-card rounded-2"><img alt="Department Image" class="department-img" src="/sites/default/files/2024-01/purchasing.png" />
+<div class="alert" role="alert">
+<div class="h5 card-text">Administration of Procurement</div>
+
+<div class="h6 card-text"><img class="icon" src="/sites/default/files/2024-01/i-person.png" />Sundus Ashkanani</div>
+
+<div class="card-text"><img class="icon" src="/sites/default/files/2024-01/i-phone.png" />123-456-7890</div>
+
+<div class="card-text"><img class="icon" src="/sites/default/files/2024-01/i-email.png" />Alice Smith</div>
+
+<div class="card-text"><img class="icon" src="/sites/default/files/2024-01/i-web.png" />Alice Smith</div>
+
+<div class="card-text"><img class="icon" src="/sites/default/files/2024-01/i-location.png" />Administrative Building, 6th floor</div>
+</div>
+</div>
+</div>
+
+<div class="col-md-4">
+<div class="card department-card rounded-2"><img alt="Department Image" class="department-img" src="/sites/default/files/2024-01/storage.png" />
+<div class="alert" role="alert">
+<div class="h5 card-text">Administration of Storage Affairs</div>
+
+<div class="h6 card-text"><img class="icon" src="/sites/default/files/2024-01/i-person.png" />Eitemad AlKandari</div>
+
+<div class="card-text"><img class="icon" src="/sites/default/files/2024-01/i-phone.png" />123-456-7890</div>
+
+<div class="card-text"><img class="icon" src="/sites/default/files/2024-01/i-email.png" />Alice Smith</div>
+
+<div class="card-text"><img class="icon" src="/sites/default/files/2024-01/i-web.png" />Alice Smith</div>
+
+<div class="card-text"><img class="icon" src="/sites/default/files/2024-01/i-location.png" />Administrative Building, 6th floor</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<!-- Division -->
+
+<div class="main-block rounded collapse" id="sg">
+<div class="alert alert-color d-flex justify-content-between align-items-center" role="alert">
+<div>
+<h4>Assistant Secretary General for Facility Management</h4>
+</div>
+<a aria-controls="departments1" aria-expanded="false" class="btn btn-primary" data-bs-toggle="collapse" href="#sg3" role="button" style="background-color:#002856;color:white; ">View Departments</a></div>
+
+<div class="h6 card-text"><img height="24px" src="/sites/default/files/2024-01/i-person.png" /> Mohammed Sulaiman</div>
+
+<div class="card-text"><img class="icon" src="/sites/default/files/2024-01/i-phone.png" /> 2498-8550</div>
+
+<div class="card-text"><img class="icon" src="/sites/default/files/2024-01/i-email.png" /> zainab.albader@ku.edu.kw</div>
+
+<div class="card-text"><img class="icon" src="/sites/default/files/2024-01/i-org.png" />Administration of Human Resources, General Services, Administrative and HR Development</div>
+
+<div class="collapse" id="sg3">
+<div class="row" style="padding: 10px;"><!-- Department -->
+<div class="col-md-4">
+<div class="card department-card rounded-2"><img alt="Department Image" class="department-img" src="/sites/default/files/2024-01/buildings.png" />
+<div class="alert" role="alert">
+<div class="h5 card-text">Administration of Construction and maintenance</div>
+
+<div class="h6 card-text"><img class="icon" src="/sites/default/files/2024-01/i-person.png" />Maha AlQaddumi</div>
+
+<div class="card-text"><img class="icon" src="/sites/default/files/2024-01/i-phone.png" /> 123-456-7890</div>
+
+<div class="card-text"><img class="icon" src="/sites/default/files/2024-01/i-email.png" />Alice Smith</div>
+
+<div class="card-text"><img class="icon" src="/sites/default/files/2024-01/i-web.png" />Alice Smith</div>
+
+<div class="card-text"><img class="icon" src="/sites/default/files/2024-01/i-location.png" />Administrative Building, 6th floor</div>
+</div>
+</div>
+</div>
+<!-- Department -->
+
+<div class="col-md-4">
+<div class="card department-card rounded-2"><img alt="Department Image" class="department-img" src="/sites/default/files/2024-01/security.png" />
+<div class="alert" role="alert">
+<div class="h5 card-text">Administration of Security and Safety</div>
+
+<div class="h6 card-text"><img class="icon" src="/sites/default/files/2024-01/i-person.png" />Sundus Ashkanani</div>
+
+<div class="card-text"><img class="icon" src="/sites/default/files/2024-01/i-phone.png" />123-456-7890</div>
+
+<div class="card-text"><img class="icon" src="/sites/default/files/2024-01/i-email.png" />Alice Smith</div>
+
+<div class="card-text"><img class="icon" src="/sites/default/files/2024-01/i-web.png" />Alice Smith</div>
+
+<div class="card-text"><img class="icon" src="/sites/default/files/2024-01/i-location.png" />Administrative Building, 6th floor</div>
+</div>
+</div>
+</div>
+<!-- Department -->
+
+<div class="col-md-4">
+<div class="card department-card rounded-2"><img alt="Department Image" class="department-img" src="/sites/default/files/2024-01/press.png" />
+<div class="alert" role="alert">
+<div class="h5 card-text">Administration of University Press</div>
+
+<div class="h6 card-text"><img class="icon" src="/sites/default/files/2024-01/i-person.png" />Eitemad AlKandari</div>
+
+<div class="card-text"><img class="icon" src="/sites/default/files/2024-01/i-phone.png" />123-456-7890</div>
+
+<div class="card-text"><img class="icon" src="/sites/default/files/2024-01/i-email.png" />Alice Smith</div>
+
+<div class="card-text"><img class="icon" src="/sites/default/files/2024-01/i-web.png" />Alice Smith</div>
+
+<div class="card-text"><img class="icon" src="/sites/default/files/2024-01/i-location.png" />Administrative Building, 6th floor</div>
+</div>
+</div>
+</div>
+<!-- Department -->
+
+<div class="col-md-4" style="margin-top: 15px;">
+<div class="card department-card rounded-2"><img alt="Department Image" class="department-img" src="/sites/default/files/2024-01/building.png" />
+<div class="alert" role="alert">
+<div class="h5 card-text">Administration of Furnishing and Housing</div>
+
+<div class="h6 card-text"><img class="icon" src="/sites/default/files/2024-01/i-person.png" />Sundus Ashkanani</div>
+
+<div class="card-text"><img class="icon" src="/sites/default/files/2024-01/i-phone.png" />123-456-7890</div>
+
+<div class="card-text"><img class="icon" src="/sites/default/files/2024-01/i-email.png" />Alice Smith</div>
+
+<div class="card-text"><img class="icon" src="/sites/default/files/2024-01/i-web.png" />Alice Smith</div>
+
+<div class="card-text"><img class="icon" src="/sites/default/files/2024-01/i-location.png" />Administrative Building, 6th floor</div>
+</div>
+</div>
+</div>
+<!-- Department -->
+
+<div class="col-md-4" style="margin-top: 15px;">
+<div class="card department-card rounded-2"><img alt="Department Image" class="department-img" src="/sites/default/files/2024-01/catering.png" />
+<div class="alert" role="alert">
+<div class="h5 card-text">Administration of Catering</div>
+
+<div class="h6 card-text"><img class="icon" src="/sites/default/files/2024-01/i-person.png" />Eitemad AlKandari</div>
+
+<div class="card-text"><img class="icon" src="/sites/default/files/2024-01/i-phone.png" />123-456-7890</div>
+
+<div class="card-text"><img class="icon" src="/sites/default/files/2024-01/i-email.png" />Alice Smith</div>
+
+<div class="card-text"><img class="icon" src="/sites/default/files/2024-01/i-web.png" />Alice Smith</div>
+
+<div class="card-text"><img class="icon" src="/sites/default/files/2024-01/i-location.png" />Administrative Building, 6th floor</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<!-- VP AA -->
+
+<div class="container">
+<div class="main-block rounded">
+<div class="alert alert-color1 d-flex justify-content-between align-items-center" role="alert">
+<div>
+<h4 style="color:white;">Vice President for Academic Affairs</h4>
+</div>
+<a aria-controls="departments1" aria-expanded="false" class="btn btn-primary" data-bs-toggle="collapse" href="#vpaa" role="button" style="background-color:#DBD9DA;color: #002856; ">View Divisions</a></div>
+
+<div class="h6 card-text"><img height="24px" src="/sites/default/files/2024-01/i-person.png" /> Dr. Fahad AlFathli</div>
+
+<div class="card-text"><img class="icon" src="/sites/default/files/2024-01/i-phone.png" /> 2498-8550</div>
+
+<div class="card-text" style="margin-bottom: 10px;"><img class="icon" src="/sites/default/files/2024-01/i-email.png" /> prof.fayez@ku.edu.kw</div>
+<!-- Division -->
+
+<div class="main-block rounded collapse" id="vpaa">
+<div class="alert alert-color d-flex justify-content-between align-items-center" role="alert">
+<div>
+<h4>Assistant VP for Faculty Affairs and Cultural Relations</h4>
+</div>
+<a aria-controls="departments1" aria-expanded="false" class="btn btn-primary" data-bs-toggle="collapse" href="#vpaa1" role="button" style="background-color:#002856;color:white; ">View Departments</a></div>
+
+<div class="h6 card-text"><img height="24px" src="/sites/default/files/2024-01/i-person.png" /> Ali AlOstath</div>
+
+<div class="card-text"><img class="icon" src="/sites/default/files/2024-01/i-phone.png" /> 2498-8550</div>
+
+<div class="card-text"><img class="icon" src="/sites/default/files/2024-01/i-email.png" /> zainab.albader@ku.edu.kw</div>
+
+<div class="card-text"><img class="icon" src="/sites/default/files/2024-01/i-org.png" />Administration of Human Resources, General Services, Administrative and HR Development</div>
+
+<div class="collapse" id="vpaa1">
+<div class="row" style="padding: 10px;"><!-- Department -->
+<div class="col-md-4">
+<div class="card department-card rounded-2"><img alt="Department Image" class="department-img" src="/sites/default/files/2024-01/faculty.png" />
+<div class="alert" role="alert">
+<div class="h5 card-text">Administration of Faculty Affairs</div>
+
+<div class="h6 card-text"><img class="icon" src="/sites/default/files/2024-01/i-person.png" />Maha AlQaddumi</div>
+
+<div class="card-text"><img class="icon" src="/sites/default/files/2024-01/i-phone.png" /> 123-456-7890</div>
+
+<div class="card-text"><img class="icon" src="/sites/default/files/2024-01/i-email.png" />Alice Smith</div>
+
+<div class="card-text"><img class="icon" src="/sites/default/files/2024-01/i-web.png" />Alice Smith</div>
+
+<div class="card-text"><img class="icon" src="/sites/default/files/2024-01/i-location.png" />Administrative Building, 6th floor</div>
+</div>
+</div>
+</div>
+<!-- Department -->
+
+<div class="col-md-4">
+<div class="card department-card rounded-2"><img alt="Department Image" class="department-img" src="/sites/default/files/2024-01/graduate.png" />
+<div class="alert" role="alert">
+<div class="h5 card-text">Administration of Scholarships and Cultural Relations</div>
+
+<div class="h6 card-text"><img class="icon" src="/sites/default/files/2024-01/i-person.png" />Sundus Ashkanani</div>
+
+<div class="card-text"><img class="icon" src="/sites/default/files/2024-01/i-phone.png" />123-456-7890</div>
+
+<div class="card-text"><img class="icon" src="/sites/default/files/2024-01/i-email.png" />Alice Smith</div>
+
+<div class="card-text"><img class="icon" src="/sites/default/files/2024-01/i-web.png" />Alice Smith</div>
+
+<div class="card-text"><img class="icon" src="/sites/default/files/2024-01/i-location.png" />Administrative Building, 6th floor</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+
+<div class="main-block rounded collapse" id="vpaa">
+<div class="alert alert-color d-flex justify-content-between align-items-center" role="alert"><!-- Alert Title and Message -->
+<div>
+<h4>Assistant VP for Evaluation and Measurement</h4>
+</div>
+</div>
+
+<div class="h6 card-text"><img height="24px" src="/sites/default/files/2024-01/i-person.png" /> Osama AlShhab</div>
+
+<div class="card-text"><img class="icon" src="/sites/default/files/2024-01/i-phone.png" /> 2498-8550</div>
+
+<div class="card-text"><img class="icon" src="/sites/default/files/2024-01/i-email.png" /> zainab.albader@ku.edu.kw</div>
+</div>
+
+<div class="main-block rounded collapse" id="vpaa">
+<div class="alert alert-color d-flex justify-content-between align-items-center" role="alert"><!-- Alert Title and Message -->
+<div>
+<h4>Assistant VP for Academic Development</h4>
+</div>
+</div>
+
+<div class="h6 card-text"><img height="24px" src="/sites/default/files/2024-01/i-person.png" /> Osama AlShhab</div>
+
+<div class="card-text"><img class="icon" src="/sites/default/files/2024-01/i-phone.png" /> 2498-8550</div>
+
+<div class="card-text"><img class="icon" src="/sites/default/files/2024-01/i-email.png" /> zainab.albader@ku.edu.kw</div>
+</div>
+</div>
+</div>
+<!-- VP Planning -->
+
+<div class="container">
+<div class="main-block rounded">
+<div class="alert alert-color1 d-flex justify-content-between align-items-center" role="alert">
+<div>
+<h4 style="color:white;">Vice President for Planning</h4>
+</div>
+<a aria-controls="departments1" aria-expanded="false" class="btn btn-primary" data-bs-toggle="collapse" href="#vppl" role="button" style="background-color:#DBD9DA;color: #002856; ">View Divisions</a></div>
+
+<div class="h6 card-text"><img height="24px" src="/sites/default/files/2024-01/i-person.png" /> Dr. Meshari AlHarbi</div>
+
+<div class="card-text"><img class="icon" src="/sites/default/files/2024-01/i-phone.png" /> 2498-8550</div>
+
+<div class="card-text" style="margin-bottom: 10px;"><img class="icon" src="/sites/default/files/2024-01/i-email.png" /> prof.fayez@ku.edu.kw</div>
+<!-- Division -->
+
+<div class="main-block rounded collapse" id="vppl">
+<div class="alert alert-color d-flex justify-content-between align-items-center" role="alert">
+<div>
+<h4>Assistant VP for Strategic Planning</h4>
+</div>
+</div>
+
+<div class="h6 card-text"><img height="24px" src="/sites/default/files/2024-01/i-person.png" />Dr. Haitham Allababidi</div>
+
+<div class="card-text"><img class="icon" src="/sites/default/files/2024-01/i-phone.png" /> 2498-8550</div>
+
+<div class="card-text"><img class="icon" src="/sites/default/files/2024-01/i-email.png" /> zainab.albader@ku.edu.kw</div>
+
+<div class="card-text"><img class="icon" src="/sites/default/files/2024-01/i-org.png" />Administration of Human Resources, General Services, Administrative and HR Development</div>
+</div>
+
+<div class="main-block rounded collapse" id="vppl">
+<div class="alert alert-color d-flex justify-content-between align-items-center" role="alert"><!-- Alert Title and Message -->
+<div>
+<h4>Assistant VP for Institutional Development</h4>
+</div>
+</div>
+
+<div class="h6 card-text"><img height="24px" src="/sites/default/files/2024-01/i-person.png" /> Osama AlShhab</div>
+
+<div class="card-text"><img class="icon" src="/sites/default/files/2024-01/i-phone.png" /> 2498-8550</div>
+
+<div class="card-text"><img class="icon" src="/sites/default/files/2024-01/i-email.png" /> zainab.albader@ku.edu.kw</div>
+</div>
+
+<div class="main-block rounded collapse" id="vppl">
+<div class="alert alert-color d-flex justify-content-between align-items-center" role="alert"><!-- Alert Title and Message -->
+<div>
+<h4>Assistant VP for Sites Planning</h4>
+</div>
+</div>
+
+<div class="h6 card-text"><img height="24px" src="/sites/default/files/2024-01/i-person.png" />Dr. Majid Majeed</div>
+
+<div class="card-text"><img class="icon" src="/sites/default/files/2024-01/i-phone.png" /> 2498-8550</div>
+
+<div class="card-text"><img class="icon" src="/sites/default/files/2024-01/i-email.png" /> zainab.albader@ku.edu.kw</div>
+</div>
+</div>
+</div>
+<!-- VP Research -->
+
+<div class="container">
+<div class="main-block rounded">
+<div class="alert alert-color1 d-flex justify-content-between align-items-center" role="alert">
+<div>
+<h4 style="color:white;">Vice President for Research</h4>
+</div>
+<a aria-controls="departments1" aria-expanded="false" class="btn btn-primary" data-bs-toggle="collapse" href="#vpre" role="button" style="background-color:#DBD9DA;color: #002856; ">View Divisions</a></div>
+
+<div class="h6 card-text"><img height="24px" src="/sites/default/files/2024-01/i-person.png" /> Dr. Othman AlKhuthur</div>
+
+<div class="card-text"><img class="icon" src="/sites/default/files/2024-01/i-phone.png" /> 2498-8550</div>
+
+<div class="card-text" style="margin-bottom: 10px;"><img class="icon" src="/sites/default/files/2024-01/i-email.png" /> prof.fayez@ku.edu.kw</div>
+<!-- Division -->
+
+<div class="main-block rounded collapse" id="vpre">
+<div class="alert alert-color d-flex justify-content-between align-items-center" role="alert">
+<div>
+<h4>Assistant VP for External Research Collaboration and Consultation</h4>
+</div>
+</div>
+
+<div class="h6 card-text"><img height="24px" src="/sites/default/files/2024-01/i-person.png" />Dr. Haitham Allababidi</div>
+
+<div class="card-text"><img class="icon" src="/sites/default/files/2024-01/i-phone.png" /> 2498-8550</div>
+
+<div class="card-text"><img class="icon" src="/sites/default/files/2024-01/i-email.png" /> zainab.albader@ku.edu.kw</div>
+
+<div class="card-text"><img class="icon" src="/sites/default/files/2024-01/i-org.png" />Administration of Human Resources, General Services, Administrative and HR Development</div>
+</div>
+
+<div class="main-block rounded collapse" id="vpre">
+<div class="alert alert-color d-flex justify-content-between align-items-center" role="alert"><!-- Alert Title and Message -->
+<div>
+<h4>Assistant VP for Research implementation and Funding</h4>
+</div>
+</div>
+
+<div class="h6 card-text"><img height="24px" src="/sites/default/files/2024-01/i-person.png" /> Osama AlShhab</div>
+
+<div class="card-text"><img class="icon" src="/sites/default/files/2024-01/i-phone.png" /> 2498-8550</div>
+
+<div class="card-text"><img class="icon" src="/sites/default/files/2024-01/i-email.png" /> zainab.albader@ku.edu.kw</div>
+</div>
+
+<div class="main-block rounded collapse" id="vpre">
+<div class="alert alert-color d-flex justify-content-between align-items-center" role="alert"><!-- Alert Title and Message -->
+<div>
+<h4>Assistant VP for Analysis and Development of Research</h4>
+</div>
+</div>
+
+<div class="h6 card-text"><img height="24px" src="/sites/default/files/2024-01/i-person.png" />Dr. Majid Majeed</div>
+
+<div class="card-text"><img class="icon" src="/sites/default/files/2024-01/i-phone.png" /> 2498-8550</div>
+
+<div class="card-text"><img class="icon" src="/sites/default/files/2024-01/i-email.png" /> zainab.albader@ku.edu.kw</div>
+</div>
+</div>
+</div>
+<!-- VPASS -->
+
+<div class="container">
+<div class="main-block rounded">
+<div class="alert alert-color1 d-flex justify-content-between align-items-center" role="alert">
+<div>
+<h4 style="color:white;">Vice President for Academic Support Services</h4>
+</div>
+<a aria-controls="departments1" aria-expanded="false" class="btn btn-primary" data-bs-toggle="collapse" href="#vpit" role="button" style="background-color:#DBD9DA;color: #002856; ">View Divisions</a></div>
+
+<div class="h6 card-text"><img height="24px" src="/sites/default/files/2024-01/i-person.png" />Dr. Sulaiman AlRafee</div>
+
+<div class="card-text"><img class="icon" src="/sites/default/files/2024-01/i-phone.png" /> 2498-8550</div>
+
+<div class="card-text" style="margin-bottom: 10px;"><img class="icon" src="/sites/default/files/2024-01/i-email.png" /> prof.fayez@ku.edu.kw</div>
+
+<div class="main-block rounded collapse" id="vpit">
+<div class="alert alert-color d-flex justify-content-between align-items-center" role="alert"><!-- Alert Title and Message -->
+<div>
+<h4>Assistant Vice President - Community Service and Libraries</h4>
+</div>
+<!-- Button on the right --><a aria-controls="departments1" aria-expanded="false" class="btn btn-primary" data-bs-toggle="collapse" href="#d1" role="button" style="background-color:#002856;color:white; ">View Departments</a></div>
+
+<div class="h6 card-text"><img height="24px" src="/sites/default/files/2024-01/i-person.png" /> Prof. Mohammed AlDhafiri</div>
+
+<div class="card-text"><img class="icon" src="/sites/default/files/2024-01/i-phone.png" /> 2498-8550</div>
+
+<div class="card-text"><img class="icon" src="/sites/default/files/2024-01/i-email.png" /> dr.mohammed@ku.edu.kw</div>
+
+<div class="card-text"><img class="icon" src="/sites/default/files/2024-01/i-org.png" />Libraries, and Community Service and Continuing education</div>
+
+<div class="collapse" id="d1">
+<div class="row" style="padding: 10px;">
+<div class="col-md-4">
+<div class="card department-card rounded-2"><img alt="Department Image" class="department-img" src="/sites/default/files/2024-01/library.png" />
+<div class="alert" role="alert">
+<div class="h5 card-text">Libraries Administration</div>
+
+<div class="h6 card-text"><img class="icon" src="/sites/default/files/2024-01/i-person.png" />Dr. Sayed Hamza</div>
+
+<div class="card-text"><img class="icon" src="/sites/default/files/2024-01/i-phone.png" /> 123-456-7890</div>
+
+<div class="card-text"><img class="icon" src="/sites/default/files/2024-01/i-email.png" />Alice Smith</div>
+
+<div class="card-text"><img class="icon" src="/sites/default/files/2024-01/i-web.png" />Alice Smith</div>
+
+<div class="card-text"><img class="icon" src="/sites/default/files/2024-01/i-location.png" />Administrative Building, 6th floor</div>
+</div>
+</div>
+</div>
+
+<div class="col-md-4">
+<div class="card department-card rounded-2"><img alt="Department Image" class="department-img" src="/sites/default/files/2024-01/community.png" />
+<div class="alert" role="alert">
+<div class="h5 card-text">Society Service and Contuniuing Education</div>
+
+<div class="h6 card-text"><img class="icon" src="/sites/default/files/2024-01/i-person.png" />Fatma Bahman</div>
+
+<div class="card-text"><img class="icon" src="/sites/default/files/2024-01/i-phone.png" />123-456-7890</div>
+
+<div class="card-text"><img class="icon" src="/sites/default/files/2024-01/i-email.png" />Alice Smith</div>
+
+<div class="card-text"><img class="icon" src="/sites/default/files/2024-01/i-web.png" />Alice Smith</div>
+
+<div class="card-text"><img class="icon" src="/sites/default/files/2024-01/i-location.png" />Administrative Building, 6th floor</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+
+<div class="main-block rounded collapse" id="vpit">
+<div class="alert alert-color d-flex justify-content-between align-items-center" role="alert"><!-- Alert Title and Message -->
+<div>
+<h4>Assistant Vice President for Information Technology</h4>
+</div>
+<!-- Button on the right --><a aria-controls="departments1" aria-expanded="false" class="btn btn-primary" data-bs-toggle="collapse" href="#d2" role="button" style="background-color:#002856;color:white; ">View Departments</a></div>
+
+<div class="h6 card-text"><img height="24px" src="/sites/default/files/2024-01/i-person.png" /> Dr. Zainab AlQenaei</div>
+
+<div class="card-text"><img class="icon" src="/sites/default/files/2024-01/i-phone.png" /> 2498-8550</div>
+
+<div class="card-text"><img class="icon" src="/sites/default/files/2024-01/i-email.png" /> zainab.albader@ku.edu.kw</div>
+
+<div class="card-text"><img class="icon" src="/sites/default/files/2024-01/i-org.png" />Computer Information Services, Technical Support, E-Learning, AlKhawarizmi</div>
+
+<div class="collapse" id="d2">
+<div class="row" style="padding: 10px;">
+<div class="col-md-4">
+<div class="card department-card rounded-2"><img alt="Department Image" class="department-img" src="/sites/default/files/2024-01/servers.png" />
+<div class="alert" role="alert">
+<div class="h5 card-text">Computer Information Services</div>
+
+<div class="h6 card-text"><img class="icon" src="/sites/default/files/2024-01/i-person.png" />Maha AlQaddumi</div>
+
+<div class="card-text"><img class="icon" src="/sites/default/files/2024-01/i-phone.png" /> 123-456-7890</div>
+
+<div class="card-text"><img class="icon" src="/sites/default/files/2024-01/i-email.png" />Alice Smith</div>
+
+<div class="card-text"><img class="icon" src="/sites/default/files/2024-01/i-web.png" />Alice Smith</div>
+
+<div class="card-text"><img class="icon" src="/sites/default/files/2024-01/i-location.png" />Administrative Building, 6th floor</div>
+</div>
+</div>
+</div>
+
+<div class="col-md-4">
+<div class="card department-card rounded-2"><img alt="Department Image" class="department-img" src="/sites/default/files/2024-01/programming.png" />
+<div class="alert" role="alert">
+<div class="h5 card-text">Technical Support</div>
+
+<div class="h6 card-text"><img class="icon" src="/sites/default/files/2024-01/i-person.png" />Sundus Ashkanani</div>
+
+<div class="card-text"><img class="icon" src="/sites/default/files/2024-01/i-phone.png" />123-456-7890</div>
+
+<div class="card-text"><img class="icon" src="/sites/default/files/2024-01/i-email.png" />Alice Smith</div>
+
+<div class="card-text"><img class="icon" src="/sites/default/files/2024-01/i-web.png" />Alice Smith</div>
+
+<div class="card-text"><img class="icon" src="/sites/default/files/2024-01/i-location.png" />Administrative Building, 6th floor</div>
+</div>
+</div>
+</div>
+
+<div class="col-md-4">
+<div class="card department-card rounded-2"><img alt="Department Image" class="department-img" src="/sites/default/files/2024-01/elearning.png" />
+<div class="alert" role="alert">
+<div class="h5 card-text">E-Learning Department</div>
+
+<div class="h6 card-text"><img class="icon" src="/sites/default/files/2024-01/i-person.png" />Eitemad AlKandari</div>
+
+<div class="card-text"><img class="icon" src="/sites/default/files/2024-01/i-phone.png" />123-456-7890</div>
+
+<div class="card-text"><img class="icon" src="/sites/default/files/2024-01/i-email.png" />Alice Smith</div>
+
+<div class="card-text"><img class="icon" src="/sites/default/files/2024-01/i-web.png" />Alice Smith</div>
+
+<div class="card-text"><img class="icon" src="/sites/default/files/2024-01/i-location.png" />Administrative Building, 6th floor</div>
+</div>
+</div>
+</div>
+
+<div class="col-md-4" style="margin-top: 15px;">
+<div class="card department-card rounded-2"><img alt="Department Image" class="department-img" src="/sites/default/files/2024-01/pc.png" />
+<div class="alert" role="alert">
+<div class="h5 card-text">AlKhawrizmi Training Center</div>
+
+<div class="h6 card-text"><img class="icon" src="/sites/default/files/2024-01/i-person.png" />Anwar AlMosawi</div>
+
+<div class="card-text"><img class="icon" src="/sites/default/files/2024-01/i-phone.png" />123-456-7890</div>
+
+<div class="card-text"><img class="icon" src="/sites/default/files/2024-01/i-email.png" />Alice Smith</div>
+
+<div class="card-text"><img class="icon" src="/sites/default/files/2024-01/i-web.png" />Alice Smith</div>
+
+<div class="card-text"><img class="icon" src="/sites/default/files/2024-01/i-location.png" />Administrative Building, 6th floor</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<!-- Health -->
+
+<div class="container">
+<div class="main-block rounded">
+<div class="alert alert-color1 d-flex justify-content-between align-items-center" role="alert">
+<div>
+<h4 style="color:white;">VP for Health Sciences</h4>
+</div>
+<a aria-controls="departments1" aria-expanded="false" class="btn btn-primary" data-bs-toggle="collapse" href="#pr" role="button" style="background-color:#DBD9DA;color: #002856; ">View Departments</a></div>
+
+<div class="h6 card-text"><img height="24px" src="/sites/default/files/2024-01/i-person.png" /> Prof. Osama AlSaeed</div>
+
+<div class="card-text"><img class="icon" src="/sites/default/files/2024-01/i-phone.png" /> 2498-8550</div>
+
+<div class="card-text" style="margin-bottom: 10px;"><img class="icon" src="/sites/default/files/2024-01/i-email.png" /> prof.fayez@ku.edu.kw</div>
+
+<div class="collapse" id="pr">
+<div class="row" style="padding: 10px;"><!-- Department -->
+<div class="col-md-4">
+<div class="card department-card rounded-2"><img alt="Department Image" class="department-img" src="/sites/default/files/2024-01/library.png" />
+<div class="alert" role="alert">
+<div class="h5 card-text">Health Science Center Library</div>
+
+<div class="h6 card-text"><img class="icon" src="/sites/default/files/2024-01/i-person.png" />Mohammed Sulaiman</div>
+
+<div class="card-text"><img class="icon" src="/sites/default/files/2024-01/i-phone.png" />123-456-7890</div>
+
+<div class="card-text"><img class="icon" src="/sites/default/files/2024-01/i-email.png" />Alice Smith</div>
+
+<div class="card-text"><img class="icon" src="/sites/default/files/2024-01/i-web.png" />Alice Smith</div>
+
+<div class="card-text"><img class="icon" src="/sites/default/files/2024-01/i-location.png" />Administrative Building, 6th floor</div>
+</div>
+</div>
+</div>
+<!-- Department --></div>
+</div>
+</div>
+</div>
+<!-- Admission -->
+
+<div class="container">
+<div class="main-block rounded">
+<div class="alert alert-color1 d-flex justify-content-between align-items-center" role="alert">
+<div>
+<h4 style="color:white;">Deanship of Admission and Registration</h4>
+</div>
+<a aria-controls="departments1" aria-expanded="false" class="btn btn-primary" data-bs-toggle="collapse" href="#dar" role="button" style="background-color:#DBD9DA;color: #002856; ">View Divisions</a></div>
+
+<div class="h6 card-text"><img height="24px" src="/sites/default/files/2024-01/i-person.png" />Dr. Fathil Aziz</div>
+
+<div class="card-text"><img class="icon" src="/sites/default/files/2024-01/i-phone.png" /> 2498-8550</div>
+
+<div class="card-text" style="margin-bottom: 10px;"><img class="icon" src="/sites/default/files/2024-01/i-email.png" /> prof.fayez@ku.edu.kw</div>
+<!-- Division -->
+
+<div class="main-block rounded collapse" id="dar">
+<div class="alert alert-color d-flex justify-content-between align-items-center" role="alert">
+<div>
+<h4>Vice Dean for Registration</h4>
+</div>
+<a aria-controls="departments1" aria-expanded="false" class="btn btn-primary" data-bs-toggle="collapse" href="#dar1" role="button" style="background-color:#002856;color:white; ">View Departments</a></div>
+
+<div class="h6 card-text"><img height="24px" src="/sites/default/files/2024-01/i-person.png" />Dr. Mohammed AlFailakawi</div>
+
+<div class="card-text"><img class="icon" src="/sites/default/files/2024-01/i-phone.png" /> 2498-8550</div>
+
+<div class="card-text"><img class="icon" src="/sites/default/files/2024-01/i-email.png" /> zainab.albader@ku.edu.kw</div>
+
+<div class="card-text"><img class="icon" src="/sites/default/files/2024-01/i-org.png" />Administration of Human Resources, General Services, Administrative and HR Development</div>
+
+<div class="collapse" id="dar1">
+<div class="row" style="padding: 10px;"><!-- Department -->
+<div class="col-md-4">
+<div class="card department-card rounded-2"><img alt="Department Image" class="department-img" src="/sites/default/files/2024-01/register.png" />
+<div class="alert" role="alert">
+<div class="h5 card-text">Administartion of Registration</div>
+
+<div class="h6 card-text"><img class="icon" src="/sites/default/files/2024-01/i-person.png" />Maha AlQaddumi</div>
+
+<div class="card-text"><img class="icon" src="/sites/default/files/2024-01/i-phone.png" /> 123-456-7890</div>
+
+<div class="card-text"><img class="icon" src="/sites/default/files/2024-01/i-email.png" />Alice Smith</div>
+
+<div class="card-text"><img class="icon" src="/sites/default/files/2024-01/i-web.png" />Alice Smith</div>
+
+<div class="card-text"><img class="icon" src="/sites/default/files/2024-01/i-location.png" />Administrative Building, 6th floor</div>
+</div>
+</div>
+</div>
+<!-- Department -->
+
+<div class="col-md-4">
+<div class="card department-card rounded-2"><img alt="Department Image" class="department-img" src="/sites/default/files/2024-01/records.png" />
+<div class="alert" role="alert">
+<div class="h5 card-text">Administration of Records</div>
+
+<div class="h6 card-text"><img class="icon" src="/sites/default/files/2024-01/i-person.png" />Sundus Ashkanani</div>
+
+<div class="card-text"><img class="icon" src="/sites/default/files/2024-01/i-phone.png" />123-456-7890</div>
+
+<div class="card-text"><img class="icon" src="/sites/default/files/2024-01/i-email.png" />Alice Smith</div>
+
+<div class="card-text"><img class="icon" src="/sites/default/files/2024-01/i-web.png" />Alice Smith</div>
+
+<div class="card-text"><img class="icon" src="/sites/default/files/2024-01/i-location.png" />Administrative Building, 6th floor</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+
+<div class="main-block rounded collapse" id="dar">
+<div class="alert alert-color d-flex justify-content-between align-items-center" role="alert"><!-- Alert Title and Message -->
+<div>
+<h4>Vice Dean for Admission and Alumni</h4>
+</div>
+<!-- Button on the right --><a aria-controls="departments1" aria-expanded="false" class="btn btn-primary" data-bs-toggle="collapse" href="#dar2" role="button" style="background-color:#002856;color:white; ">View Departments</a></div>
+
+<div class="h6 card-text"><img height="24px" src="/sites/default/files/2024-01/i-person.png" />XXXXXXXXX</div>
+
+<div class="card-text"><img class="icon" src="/sites/default/files/2024-01/i-phone.png" /> 2498-8550</div>
+
+<div class="card-text"><img class="icon" src="/sites/default/files/2024-01/i-email.png" /> zainab.albader@ku.edu.kw</div>
+
+<div class="card-text"><img class="icon" src="/sites/default/files/2024-01/i-org.png" />Administartion of Human Resources, General Services, Administrative and HR Development</div>
+
+<div class="collapse" id="dar2">
+<div class="row" style="padding: 10px;">
+<div class="col-md-4">
+<div class="card department-card rounded-2"><img alt="Department Image" class="department-img" src="/sites/default/files/2024-01/admission.png" />
+<div class="alert" role="alert">
+<div class="h5 card-text">Administration of Admission</div>
+
+<div class="h6 card-text"><img class="icon" src="/sites/default/files/2024-01/i-person.png" />Maha AlQaddumi</div>
+
+<div class="card-text"><img class="icon" src="/sites/default/files/2024-01/i-phone.png" /> 123-456-7890</div>
+
+<div class="card-text"><img class="icon" src="/sites/default/files/2024-01/i-email.png" />Alice Smith</div>
+
+<div class="card-text"><img class="icon" src="/sites/default/files/2024-01/i-web.png" />Alice Smith</div>
+
+<div class="card-text"><img class="icon" src="/sites/default/files/2024-01/i-location.png" />Administrative Building, 6th floor</div>
+</div>
+</div>
+</div>
+
+<div class="col-md-4">
+<div class="card department-card rounded-2"><img alt="Department Image" class="department-img" src="/sites/default/files/2024-01/graduate.png" />
+<div class="alert" role="alert">
+<div class="h5 card-text">Administration of Alumni Affairs</div>
+
+<div class="h6 card-text"><img class="icon" src="/sites/default/files/2024-01/i-person.png" />Sundus Ashkanani</div>
+
+<div class="card-text"><img class="icon" src="/sites/default/files/2024-01/i-phone.png" />123-456-7890</div>
+
+<div class="card-text"><img class="icon" src="/sites/default/files/2024-01/i-email.png" />Alice Smith</div>
+
+<div class="card-text"><img class="icon" src="/sites/default/files/2024-01/i-web.png" />Alice Smith</div>
+
+<div class="card-text"><img class="icon" src="/sites/default/files/2024-01/i-location.png" />Administrative Building, 6th floor</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<!-- Students -->
+
+<div class="container">
+<div class="main-block rounded">
+<div class="alert alert-color1 d-flex justify-content-between align-items-center" role="alert">
+<div>
+<h4 style="color:white;">Deanship of Student Affairs</h4>
+</div>
+<a aria-controls="departments1" aria-expanded="false" class="btn btn-primary" data-bs-toggle="collapse" href="#ds" role="button" style="background-color:#DBD9DA;color: #002856; ">View Divisions</a></div>
+
+<div class="h6 card-text"><img height="24px" src="/sites/default/files/2024-01/i-person.png" /> Prof. Fayez AlDhufairi</div>
+
+<div class="card-text"><img class="icon" src="/sites/default/files/2024-01/i-phone.png" /> 2498-8550</div>
+
+<div class="card-text" style="margin-bottom: 10px;"><img class="icon" src="/sites/default/files/2024-01/i-email.png" /> prof.fayez@ku.edu.kw</div>
+<!-- Division -->
+
+<div class="main-block rounded collapse" id="ds">
+<div class="alert alert-color d-flex justify-content-between align-items-center" role="alert">
+<div>
+<h4>Vice Dean of Student Services</h4>
+</div>
+<a aria-controls="departments1" aria-expanded="false" class="btn btn-primary" data-bs-toggle="collapse" href="#ds1" role="button" style="background-color:#002856;color:white; ">View Departments</a></div>
+
+<div class="h6 card-text"><img height="24px" src="/sites/default/files/2024-01/i-person.png" /> Ali AlOstath</div>
+
+<div class="card-text"><img class="icon" src="/sites/default/files/2024-01/i-phone.png" /> 2498-8550</div>
+
+<div class="card-text"><img class="icon" src="/sites/default/files/2024-01/i-email.png" /> zainab.albader@ku.edu.kw</div>
+
+<div class="card-text"><img class="icon" src="/sites/default/files/2024-01/i-org.png" />Administration of Human Resources, General Services, Administrative and HR Development</div>
+
+<div class="collapse" id="ds1">
+<div class="row" style="padding: 10px;"><!-- Department -->
+<div class="col-md-4">
+<div class="card department-card rounded-2"><img alt="Department Image" class="department-img" src="/sites/default/files/2024-01/students.png" />
+<div class="alert" role="alert">
+<div class="h5 card-text">Administartion of Student Affairs</div>
+
+<div class="h6 card-text"><img class="icon" src="/sites/default/files/2024-01/i-person.png" />Maha AlQaddumi</div>
+
+<div class="card-text"><img class="icon" src="/sites/default/files/2024-01/i-phone.png" /> 123-456-7890</div>
+
+<div class="card-text"><img class="icon" src="/sites/default/files/2024-01/i-email.png" />Alice Smith</div>
+
+<div class="card-text"><img class="icon" src="/sites/default/files/2024-01/i-web.png" />Alice Smith</div>
+
+<div class="card-text"><img class="icon" src="/sites/default/files/2024-01/i-location.png" />Administrative Building, 6th floor</div>
+</div>
+</div>
+</div>
+<!-- Department -->
+
+<div class="col-md-4">
+<div class="card department-card rounded-2"><img alt="Department Image" class="department-img" src="/sites/default/files/2024-01/welfare.png" />
+<div class="alert" role="alert">
+<div class="h5 card-text">Administration of Social Welfare</div>
+
+<div class="h6 card-text"><img class="icon" src="/sites/default/files/2024-01/i-person.png" />Sundus Ashkanani</div>
+
+<div class="card-text"><img class="icon" src="/sites/default/files/2024-01/i-phone.png" />123-456-7890</div>
+
+<div class="card-text"><img class="icon" src="/sites/default/files/2024-01/i-email.png" />Alice Smith</div>
+
+<div class="card-text"><img class="icon" src="/sites/default/files/2024-01/i-web.png" />Alice Smith</div>
+
+<div class="card-text"><img class="icon" src="/sites/default/files/2024-01/i-location.png" />Administrative Building, 6th floor</div>
+</div>
+</div>
+</div>
+<!-- Department -->
+
+<div class="col-md-4">
+<div class="card department-card rounded-2"><img alt="Department Image" class="department-img" src="/sites/default/files/2024-01/advising.png" />
+<div class="alert" role="alert">
+<div class="h5 card-text">Administration of Academic Advising</div>
+
+<div class="h6 card-text"><img class="icon" src="/sites/default/files/2024-01/i-person.png" />Eitemad AlKandari</div>
+
+<div class="card-text"><img class="icon" src="/sites/default/files/2024-01/i-phone.png" />123-456-7890</div>
+
+<div class="card-text"><img class="icon" src="/sites/default/files/2024-01/i-email.png" />Alice Smith</div>
+
+<div class="card-text"><img class="icon" src="/sites/default/files/2024-01/i-web.png" />Alice Smith</div>
+
+<div class="card-text"><img class="icon" src="/sites/default/files/2024-01/i-location.png" />Administrative Building, 6th floor</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+
+<div class="main-block rounded collapse" id="ds">
+<div class="alert alert-color d-flex justify-content-between align-items-center" role="alert"><!-- Alert Title and Message -->
+<div>
+<h4>Vice Dean Student Activities</h4>
+</div>
+<!-- Button on the right --><a aria-controls="departments1" aria-expanded="false" class="btn btn-primary" data-bs-toggle="collapse" href="#ds2" role="button" style="background-color:#002856;color:white; ">View Departments</a></div>
+
+<div class="h6 card-text"><img height="24px" src="/sites/default/files/2024-01/i-person.png" /> Osama AlShhab</div>
+
+<div class="card-text"><img class="icon" src="/sites/default/files/2024-01/i-phone.png" /> 2498-8550</div>
+
+<div class="card-text"><img class="icon" src="/sites/default/files/2024-01/i-email.png" /> zainab.albader@ku.edu.kw</div>
+
+<div class="card-text"><img class="icon" src="/sites/default/files/2024-01/i-org.png" />Administartion of Human Resources, General Services, Administrative and HR Development</div>
+
+<div class="collapse" id="ds2">
+<div class="row" style="padding: 10px;">
+<div class="col-md-4">
+<div class="card department-card rounded-2"><img alt="Department Image" class="department-img" src="/sites/default/files/2024-01/sports.png" />
+<div class="alert" role="alert">
+<div class="h5 card-text">Administration of Sport Activities</div>
+
+<div class="h6 card-text"><img class="icon" src="/sites/default/files/2024-01/i-person.png" />Maha AlQaddumi</div>
+
+<div class="card-text"><img class="icon" src="/sites/default/files/2024-01/i-phone.png" /> 123-456-7890</div>
+
+<div class="card-text"><img class="icon" src="/sites/default/files/2024-01/i-email.png" />Alice Smith</div>
+
+<div class="card-text"><img class="icon" src="/sites/default/files/2024-01/i-web.png" />Alice Smith</div>
+
+<div class="card-text"><img class="icon" src="/sites/default/files/2024-01/i-location.png" />Administrative Building, 6th floor</div>
+</div>
+</div>
+</div>
+
+<div class="col-md-4">
+<div class="card department-card rounded-2"><img alt="Department Image" class="department-img" src="/sites/default/files/2024-01/paint.png" />
+<div class="alert" role="alert">
+<div class="h5 card-text">Administration of Arts and Cultural Activities</div>
+
+<div class="h6 card-text"><img class="icon" src="/sites/default/files/2024-01/i-person.png" />Sundus Ashkanani</div>
+
+<div class="card-text"><img class="icon" src="/sites/default/files/2024-01/i-phone.png" />123-456-7890</div>
+
+<div class="card-text"><img class="icon" src="/sites/default/files/2024-01/i-email.png" />Alice Smith</div>
+
+<div class="card-text"><img class="icon" src="/sites/default/files/2024-01/i-web.png" />Alice Smith</div>
+
+<div class="card-text"><img class="icon" src="/sites/default/files/2024-01/i-location.png" />Administrative Building, 6th floor</div>
+</div>
+</div>
+</div>
+
+<div class="col-md-4">
+<div class="card department-card rounded-2"><img alt="Department Image" class="department-img" src="/sites/default/files/2024-01/Housing.png" />
+<div class="alert" role="alert">
+<div class="h5 card-text">Administration of Student Housing and Foreign Students Affairs</div>
+
+<div class="h6 card-text"><img class="icon" src="/sites/default/files/2024-01/i-person.png" />Eitemad AlKandari</div>
+
+<div class="card-text"><img class="icon" src="/sites/default/files/2024-01/i-phone.png" />123-456-7890</div>
+
+<div class="card-text"><img class="icon" src="/sites/default/files/2024-01/i-email.png" />Alice Smith</div>
+
+<div class="card-text"><img class="icon" src="/sites/default/files/2024-01/i-web.png" />Alice Smith</div>
+
+<div class="card-text"><img class="icon" src="/sites/default/files/2024-01/i-location.png" />Administrative Building, 6th floor</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
